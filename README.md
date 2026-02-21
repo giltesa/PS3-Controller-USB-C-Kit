@@ -12,13 +12,12 @@ Replace your old or damaged **MiniUSB** and upgrade to modern convenience. **Thi
 
 ![PS3-USBC](https://raw.githubusercontent.com/giltesa/PS3-Controller-USB-C-Kit/master/4.%20Photos/PS3-Controller-USB-C_4.jpg)
 
-**NOTE**: This product is the same as the one used in the **Nintendo Wii U Pro Controller: USB-C Mod**. The board works for both controllers.
 
 ## Would you like it?
 
 [**PlayStation 3 DualShock Controller: USB-C Mod**](https://shop.giltesa.com/?p=3637)
 
-
+**NOTE**: This product is the same as the one used in the **Nintendo Wii U Pro Controller: USB-C Mod**. The board works for both controllers.
 
 ## License
 
