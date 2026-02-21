@@ -11,7 +11,7 @@ Replace your old or damaged **MiniUSB** and upgrade to modern convenience. **Thi
 
 ## Would you like it?
 
-[**PlayStation 3 DualShock Controller: USB-C Mod (All models)**](https://shop.giltesa.com/?p=6515)
+[**PlayStation 3 DualShock Controller: USB-C Mod**](https://shop.giltesa.com/?p=6515)
 
 
 
